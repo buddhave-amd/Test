@@ -16,13 +16,13 @@ Welcome to the daily log! Below, you'll find a list of each day with hyperlinks 
 
 ## Day 1
 
-[Click here to view Day 1](day1.md)
+[Click here to view Day 1](contents/day1.md)
 
 ---
 
 ## Day 2
 
-[Click here to view Day 2](day2.md)
+[Click here to view Day 2](contentsday2.md)
 
 ---
 
