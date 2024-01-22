@@ -4,7 +4,7 @@ Welcome to the daily log! Below, you'll find a list of each day with hyperlinks 
 
 ## Table of Contents
 
-1. [Day 1](#day-1)
+1. [Day 1](contents/day1.md)
 2. [Day 2](#day-2)
 3. [Day 3](#day-3)
    - [Morning](#day-3-morning)
@@ -14,9 +14,7 @@ Welcome to the daily log! Below, you'll find a list of each day with hyperlinks 
 
 ---
 
-## Day 1
 
-[Click here to view Day 1](contents/day1.md)
 
 ---
 
